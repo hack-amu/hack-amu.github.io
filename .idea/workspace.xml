@@ -1,31 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29ff50ce-8075-4a0a-b276-cdb3054ee2b8" name="Default Changelist" comment="t">
+    <list default="true" id="29ff50ce-8075-4a0a-b276-cdb3054ee2b8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/bg/bg-img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/bg/inner_cover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/bg/slider(1).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/bg/tickets.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/blog/blog1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/blog/blog2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/blog/blog3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/blog/instagram/inst1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/blog/instagram/inst2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/blog/instagram/inst3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/blog/instagram/inst4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/blog/instagram/inst5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/blog/instagram/inst6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/brands/b1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/brands/b2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/brands/b3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/brands/b4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/brands/b5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/events/event1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/events/event2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/events/event3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/speakers.html" beforeDir="false" afterPath="$PROJECT_DIR$/speakers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/events.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/speakers.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -56,11 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="243" column="63" selection-start-line="243" selection-start-column="63" selection-end-line="243" selection-end-column="63" />
+            <state relative-caret-position="336">
+              <caret line="496" column="33" lean-forward="true" selection-start-line="496" selection-start-column="33" selection-end-line="496" selection-end-column="33" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -93,11 +73,11 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1545">
-              <caret line="103" column="24" selection-start-line="103" selection-start-column="24" selection-end-line="103" selection-end-column="24" />
+            <state relative-caret-position="301">
+              <caret line="92" column="10" lean-forward="true" selection-start-line="92" selection-start-column="10" selection-end-line="92" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -126,6 +106,9 @@
       <find>blog/blog</find>
       <find>inner-cover</find>
       <find>inner_cover.</find>
+      <find>our judges</find>
+      <find>registra</find>
+      <find>connect with</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -165,19 +148,6 @@
               <item name="evento" type="b2602c69:ProjectViewProjectNode" />
               <item name="evento" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="evento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="evento" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="evento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="evento" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="bg" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -220,7 +190,7 @@
       <workItem from="1552961841067" duration="5274000" />
       <workItem from="1552982986740" duration="2250000" />
       <workItem from="1552991807033" duration="4384000" />
-      <workItem from="1553068188078" duration="3446000" />
+      <workItem from="1553068188078" duration="5086000" />
     </task>
     <task id="LOCAL-00001" summary="Add CNAME record">
       <created>1552983084446</created>
@@ -278,16 +248,31 @@
       <option name="project" value="LOCAL" />
       <updated>1553070963335</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Change Images.">
+      <created>1553072267031</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1553072267031</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Some changes">
+      <created>1553073537773</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1553073537773</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20489000" />
+    <option name="totallyTimeSpent" value="22129000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="961" y="0" width="959" height="1080" extended-state="4" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19551282" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19551282" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Gulp" order="2" side_tool="true" />
       <window_info id="npm" order="3" side_tool="true" />
@@ -302,8 +287,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3326338" />
-      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3326338" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3441763" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -361,7 +346,9 @@
     <MESSAGE value="Changes in Judge Images" />
     <MESSAGE value="Correct Contact Us information" />
     <MESSAGE value="Correct Phone Number" />
-    <option name="LAST_COMMIT_MESSAGE" value="Correct Phone Number" />
+    <MESSAGE value="Change Images." />
+    <MESSAGE value="Some changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some changes" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/img/bg/inner_cover.png">
@@ -409,13 +396,6 @@
     <entry file="file://$PROJECT_DIR$/assets/img/logo.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1545">
-          <caret line="103" column="24" selection-start-line="103" selection-start-column="24" selection-end-line="103" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="780">
@@ -437,32 +417,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/events.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1545">
-          <caret line="178" column="40" lean-forward="true" selection-start-line="178" selection-start-column="40" selection-end-line="178" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/bg/bg-img.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/speakers.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="100" column="30" selection-start-line="100" selection-start-column="30" selection-end-line="100" selection-end-column="30" />
+        <state relative-caret-position="195">
+          <caret line="406" column="22" lean-forward="true" selection-start-line="406" selection-start-column="22" selection-end-line="406" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1978" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/events.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="178" column="40" lean-forward="true" selection-start-line="178" selection-start-column="40" selection-end-line="178" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="243" column="63" selection-start-line="243" selection-start-column="63" selection-end-line="243" selection-end-column="63" />
+        <state relative-caret-position="336">
+          <caret line="496" column="33" lean-forward="true" selection-start-line="496" selection-start-column="33" selection-end-line="496" selection-end-column="33" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="92" column="10" lean-forward="true" selection-start-line="92" selection-start-column="10" selection-end-line="92" selection-end-column="10" />
         </state>
       </provider>
     </entry>
