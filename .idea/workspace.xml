@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="29ff50ce-8075-4a0a-b276-cdb3054ee2b8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -37,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="550" column="31" selection-start-line="550" selection-start-column="31" selection-end-line="550" selection-end-column="31" />
+            <state relative-caret-position="436">
+              <caret line="609" column="20" lean-forward="true" selection-start-line="609" selection-start-column="20" selection-end-line="609" selection-end-column="20" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -191,7 +190,7 @@
       <workItem from="1552961841067" duration="5274000" />
       <workItem from="1552982986740" duration="2250000" />
       <workItem from="1552991807033" duration="4384000" />
-      <workItem from="1553068188078" duration="1705000" />
+      <workItem from="1553068188078" duration="2200000" />
     </task>
     <task id="LOCAL-00001" summary="Add CNAME record">
       <created>1552983084446</created>
@@ -235,11 +234,18 @@
       <option name="project" value="LOCAL" />
       <updated>1553070246322</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Correct Contact Us information">
+      <created>1553070648468</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1553070648469</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18748000" />
+    <option name="totallyTimeSpent" value="19243000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="895" y="0" width="1025" height="1080" extended-state="4" />
@@ -317,7 +323,8 @@
     <MESSAGE value="Delete weeks from countdown" />
     <MESSAGE value="Changes in Navbar" />
     <MESSAGE value="Changes in Judge Images" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes in Judge Images" />
+    <MESSAGE value="Correct Contact Us information" />
+    <option name="LAST_COMMIT_MESSAGE" value="Correct Contact Us information" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/img/bg/bg-img.png">
@@ -398,8 +405,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="550" column="31" selection-start-line="550" selection-start-column="31" selection-end-line="550" selection-end-column="31" />
+        <state relative-caret-position="436">
+          <caret line="609" column="20" lean-forward="true" selection-start-line="609" selection-start-column="20" selection-end-line="609" selection-end-column="20" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
