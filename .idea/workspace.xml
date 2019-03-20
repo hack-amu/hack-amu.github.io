@@ -1,8 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29ff50ce-8075-4a0a-b276-cdb3054ee2b8" name="Default Changelist" comment="">
+    <list default="true" id="29ff50ce-8075-4a0a-b276-cdb3054ee2b8" name="Default Changelist" comment="t">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/bg/bg-img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/bg/inner_cover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/bg/slider(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/bg/tickets.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blog/blog1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blog/blog2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blog/blog3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blog/instagram/inst1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blog/instagram/inst2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blog/instagram/inst3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blog/instagram/inst4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blog/instagram/inst5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blog/instagram/inst6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/brands/b1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/brands/b2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/brands/b3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/brands/b4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/brands/b5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/events/event1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/events/event2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/events/event3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speakers.html" beforeDir="false" afterPath="$PROJECT_DIR$/speakers.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -36,8 +59,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="609" column="20" lean-forward="true" selection-start-line="609" selection-start-column="20" selection-end-line="609" selection-end-column="20" />
+            <state relative-caret-position="201">
+              <caret line="243" column="63" selection-start-line="243" selection-start-column="63" selection-end-line="243" selection-end-column="63" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -51,7 +74,7 @@
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="57">
-              <caret line="3170" column="21" lean-forward="true" selection-start-line="3170" selection-start-column="21" selection-end-line="3170" selection-end-column="21" />
+              <caret line="3170" column="21" selection-start-line="3170" selection-start-column="21" selection-end-line="3170" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -60,7 +83,7 @@
         <entry file="file://$PROJECT_DIR$/assets/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="780">
-              <caret line="57" column="18" lean-forward="true" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
+              <caret line="57" column="18" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -97,6 +120,12 @@
       <find>march</find>
       <find>.css</find>
       <find>and hacka</find>
+      <find>pricing tab</find>
+      <find>event1.png</find>
+      <find>blog</find>
+      <find>blog/blog</find>
+      <find>inner-cover</find>
+      <find>inner_cover.</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -109,13 +138,14 @@
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/assets/js/main.js" />
+        <option value="$PROJECT_DIR$/speakers.html" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="895" />
-    <option name="width" value="1025" />
+    <option name="x" value="961" />
+    <option name="width" value="959" />
     <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -147,7 +177,7 @@
               <item name="evento" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="speakers" type="462c0819:PsiDirectoryNode" />
+              <item name="bg" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -190,7 +220,7 @@
       <workItem from="1552961841067" duration="5274000" />
       <workItem from="1552982986740" duration="2250000" />
       <workItem from="1552991807033" duration="4384000" />
-      <workItem from="1553068188078" duration="2200000" />
+      <workItem from="1553068188078" duration="3446000" />
     </task>
     <task id="LOCAL-00001" summary="Add CNAME record">
       <created>1552983084446</created>
@@ -241,17 +271,23 @@
       <option name="project" value="LOCAL" />
       <updated>1553070648469</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Correct Phone Number">
+      <created>1553070963335</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1553070963335</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19243000" />
+    <option name="totallyTimeSpent" value="20489000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="895" y="0" width="1025" height="1080" extended-state="4" />
-    <editor active="true" />
+    <frame x="961" y="0" width="959" height="1080" extended-state="4" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18263473" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19551282" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Gulp" order="2" side_tool="true" />
       <window_info id="npm" order="3" side_tool="true" />
@@ -324,12 +360,10 @@
     <MESSAGE value="Changes in Navbar" />
     <MESSAGE value="Changes in Judge Images" />
     <MESSAGE value="Correct Contact Us information" />
-    <option name="LAST_COMMIT_MESSAGE" value="Correct Contact Us information" />
+    <MESSAGE value="Correct Phone Number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Correct Phone Number" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/img/bg/bg-img.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/bg/inner_cover.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -385,14 +419,14 @@
     <entry file="file://$PROJECT_DIR$/assets/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="780">
-          <caret line="57" column="18" lean-forward="true" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
+          <caret line="57" column="18" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
-          <caret line="3170" column="21" lean-forward="true" selection-start-line="3170" selection-start-column="21" selection-end-line="3170" selection-end-column="21" />
+          <caret line="3170" column="21" selection-start-line="3170" selection-start-column="21" selection-end-line="3170" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -403,10 +437,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/events.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1545">
+          <caret line="178" column="40" lean-forward="true" selection-start-line="178" selection-start-column="40" selection-end-line="178" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/bg/bg-img.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/speakers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="100" column="30" selection-start-line="100" selection-start-column="30" selection-end-line="100" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="609" column="20" lean-forward="true" selection-start-line="609" selection-start-column="20" selection-end-line="609" selection-end-column="20" />
+        <state relative-caret-position="201">
+          <caret line="243" column="63" selection-start-line="243" selection-start-column="63" selection-end-line="243" selection-end-column="63" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
