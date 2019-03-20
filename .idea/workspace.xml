@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29ff50ce-8075-4a0a-b276-cdb3054ee2b8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="29ff50ce-8075-4a0a-b276-cdb3054ee2b8" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -37,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="377" column="48" lean-forward="true" selection-start-line="377" selection-start-column="48" selection-end-line="377" selection-end-column="48" />
+            <state relative-caret-position="340">
+              <caret line="160" column="41" lean-forward="true" selection-start-line="160" selection-start-column="41" selection-end-line="160" selection-end-column="41" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -117,7 +114,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
+  <component name="ProjectFrameBounds">
     <option name="x" value="961" />
     <option name="width" value="949" />
     <option name="height" value="1080" />
@@ -188,7 +185,7 @@
       <workItem from="1552982986740" duration="2250000" />
       <workItem from="1552991807033" duration="4384000" />
       <workItem from="1553068188078" duration="5578000" />
-      <workItem from="1553082824310" duration="3505000" />
+      <workItem from="1553082824310" duration="4257000" />
     </task>
     <task id="LOCAL-00001" summary="Add CNAME record">
       <created>1552983084446</created>
@@ -302,11 +299,18 @@
       <option name="project" value="LOCAL" />
       <updated>1553085523205</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Change Project Ideas">
+      <created>1553086478157</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1553086478157</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26126000" />
+    <option name="totallyTimeSpent" value="26878000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="961" y="0" width="949" height="1080" extended-state="4" />
@@ -392,7 +396,8 @@
     <MESSAGE value="Add Event info." />
     <MESSAGE value="Delete useless images" />
     <MESSAGE value="Add Project Ideas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Project Ideas" />
+    <MESSAGE value="Change Project Ideas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change Project Ideas" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/img/bg/inner_cover.png" />
@@ -452,8 +457,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="377" column="48" lean-forward="true" selection-start-line="377" selection-start-column="48" selection-end-line="377" selection-end-column="48" />
+        <state relative-caret-position="340">
+          <caret line="160" column="41" lean-forward="true" selection-start-line="160" selection-start-column="41" selection-end-line="160" selection-end-column="41" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
