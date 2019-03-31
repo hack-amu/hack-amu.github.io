@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="29ff50ce-8075-4a0a-b276-cdb3054ee2b8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -38,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="467" column="60" selection-start-line="467" selection-start-column="60" selection-end-line="467" selection-end-column="60" />
+            <state relative-caret-position="450">
+              <caret line="452" column="25" selection-start-line="452" selection-start-column="25" selection-end-line="452" selection-end-column="25" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -74,7 +72,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>and hacka</find>
       <find>pricing tab</find>
       <find>event1.png</find>
       <find>blog</find>
@@ -104,6 +101,7 @@
       <find>get</find>
       <find>$(window)</find>
       <find>schedule</find>
+      <find>Register Now</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -123,8 +121,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="1920" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="961" />
+    <option name="width" value="959" />
     <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -145,12 +144,6 @@
               <item name="evento" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="evento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="evento" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -159,6 +152,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -199,7 +193,9 @@
       <workItem from="1553498853630" duration="310000" />
       <workItem from="1553499264987" duration="1514000" />
       <workItem from="1553505287799" duration="1809000" />
-      <workItem from="1553883722140" duration="260000" />
+      <workItem from="1553883722140" duration="956000" />
+      <workItem from="1553889292378" duration="599000" />
+      <workItem from="1554025043090" duration="640000" />
     </task>
     <task id="LOCAL-00001" summary="Add CNAME record">
       <created>1552983084446</created>
@@ -348,16 +344,24 @@
       <option name="project" value="LOCAL" />
       <updated>1553506955830</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Add Registration Link">
+      <created>1553884052928</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1553884052929</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31393000" />
+    <option name="totallyTimeSpent" value="33328000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="961" y="0" width="959" height="1080" extended-state="4" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15705128" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09081197" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Gulp" order="2" side_tool="true" />
       <window_info id="npm" order="3" side_tool="true" />
@@ -372,7 +376,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.296957" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.44386148" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3441763" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -465,7 +469,8 @@
     <MESSAGE value="Delete useless files" />
     <MESSAGE value="Update Meta Tags" />
     <MESSAGE value="Add Code Of Conduct Page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Code Of Conduct Page" />
+    <MESSAGE value="Add Registration Link" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Registration Link" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/img/bg/inner_cover.png" />
@@ -491,13 +496,6 @@
     <entry file="file://$PROJECT_DIR$/assets/img/cleander/c1.png" />
     <entry file="file://$PROJECT_DIR$/assets/css/ajax-loader.gif">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="3160" column="20" selection-start-line="3160" selection-start-column="20" selection-end-line="3160" selection-end-column="20" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
@@ -530,10 +528,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1860">
+          <caret line="2922" lean-forward="true" selection-start-line="2922" selection-end-line="2922" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="467" column="60" selection-start-line="467" selection-start-column="60" selection-end-line="467" selection-end-column="60" />
+        <state relative-caret-position="450">
+          <caret line="452" column="25" selection-start-line="452" selection-start-column="25" selection-end-line="452" selection-end-column="25" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
