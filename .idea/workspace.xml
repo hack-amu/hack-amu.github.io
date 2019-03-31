@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29ff50ce-8075-4a0a-b276-cdb3054ee2b8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -36,13 +36,22 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="383" column="42" lean-forward="true" selection-start-line="383" selection-start-column="42" selection-end-line="383" selection-end-column="42" />
+            <state relative-caret-position="446">
+              <caret line="543" column="32" lean-forward="true" selection-start-line="543" selection-start-column="32" selection-end-line="543" selection-end-column="32" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3829">
+              <caret line="2907" column="22" lean-forward="true" selection-start-line="2907" selection-start-column="22" selection-end-line="2907" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -72,7 +81,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>event1.png</find>
       <find>blog</find>
       <find>blog/blog</find>
       <find>inner-cover</find>
@@ -102,6 +110,7 @@
       <find>Register Now</find>
       <find>schedule</find>
       <find>judges</find>
+      <find>hackamu sche</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -195,7 +204,7 @@
       <workItem from="1553505287799" duration="1809000" />
       <workItem from="1553883722140" duration="956000" />
       <workItem from="1553889292378" duration="599000" />
-      <workItem from="1554025043090" duration="909000" />
+      <workItem from="1554025043090" duration="2243000" />
     </task>
     <task id="LOCAL-00001" summary="Add CNAME record">
       <created>1552983084446</created>
@@ -358,11 +367,25 @@
       <option name="project" value="LOCAL" />
       <updated>1554025919130</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Edit Judges names.">
+      <created>1554026131478</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1554026131478</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Required Changes.">
+      <created>1554026683528</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1554026683528</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33597000" />
+    <option name="totallyTimeSpent" value="34931000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="961" y="0" width="959" height="1080" extended-state="4" />
@@ -477,7 +500,9 @@
     <MESSAGE value="Add Code Of Conduct Page" />
     <MESSAGE value="Add Registration Link" />
     <MESSAGE value="Schedule navbar navigates to schedule" />
-    <option name="LAST_COMMIT_MESSAGE" value="Schedule navbar navigates to schedule" />
+    <MESSAGE value="Edit Judges names." />
+    <MESSAGE value="Required Changes." />
+    <option name="LAST_COMMIT_MESSAGE" value="Required Changes." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/img/bg/inner_cover.png" />
@@ -537,15 +562,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1860">
-          <caret line="2922" lean-forward="true" selection-start-line="2922" selection-end-line="2922" />
+        <state relative-caret-position="-3829">
+          <caret line="2907" column="22" lean-forward="true" selection-start-line="2907" selection-start-column="22" selection-end-line="2907" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="383" column="42" lean-forward="true" selection-start-line="383" selection-start-column="42" selection-end-line="383" selection-end-column="42" />
+        <state relative-caret-position="446">
+          <caret line="543" column="32" lean-forward="true" selection-start-line="543" selection-start-column="32" selection-end-line="543" selection-end-column="32" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
