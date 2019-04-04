@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29ff50ce-8075-4a0a-b276-cdb3054ee2b8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="29ff50ce-8075-4a0a-b276-cdb3054ee2b8" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -52,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="2913" column="28" lean-forward="true" selection-start-line="2913" selection-start-column="28" selection-end-line="2913" selection-end-column="28" />
+            <state relative-caret-position="210">
+              <caret line="2920" column="22" lean-forward="true" selection-start-line="2920" selection-start-column="22" selection-end-line="2920" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -83,7 +79,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>inner-cover</find>
       <find>inner_cover.</find>
       <find>our judges</find>
       <find>registra</find>
@@ -113,6 +108,7 @@
       <find>hackamu sche</find>
       <find>brand_carousel</find>
       <find>our spon</find>
+      <find>fossasia</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -208,7 +204,7 @@
       <workItem from="1553889292378" duration="599000" />
       <workItem from="1554025043090" duration="2243000" />
       <workItem from="1554064433803" duration="1049000" />
-      <workItem from="1554111075455" duration="281000" />
+      <workItem from="1554111075455" duration="314000" />
     </task>
     <task id="LOCAL-00001" summary="Add CNAME record">
       <created>1552983084446</created>
@@ -399,17 +395,23 @@
       <option name="project" value="LOCAL" />
       <updated>1554065412555</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Add fossasia website link">
+      <created>1554111373845</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1554111373845</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36261000" />
+    <option name="totallyTimeSpent" value="36294000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="961" y="0" width="959" height="1080" extended-state="4" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.081196584" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.04006326" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Gulp" order="2" side_tool="true" />
       <window_info id="npm" order="3" side_tool="true" />
@@ -497,7 +499,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add image of faisal Sir" />
     <MESSAGE value="Schedule error" />
     <MESSAGE value="Delete weeks from countdown" />
     <MESSAGE value="Changes in Navbar" />
@@ -522,7 +523,8 @@
     <MESSAGE value="Required Changes." />
     <MESSAGE value="Add photo of talha bhai" />
     <MESSAGE value="Add sponsor image and correct Insta Page Url." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add sponsor image and correct Insta Page Url." />
+    <MESSAGE value="Add fossasia website link" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add fossasia website link" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/img/bg/inner_cover.png" />
@@ -594,8 +596,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="2913" column="28" lean-forward="true" selection-start-line="2913" selection-start-column="28" selection-end-line="2913" selection-end-column="28" />
+        <state relative-caret-position="210">
+          <caret line="2920" column="22" lean-forward="true" selection-start-line="2920" selection-start-column="22" selection-end-line="2920" selection-end-column="22" />
         </state>
       </provider>
     </entry>
